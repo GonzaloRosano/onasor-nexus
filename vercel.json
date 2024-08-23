@@ -1,5 +1,6 @@
 {
   "rewrites": [
+    { "source": "/members", "destination": "/" },
     { "source": "/members/:id", "destination": "/" }
   ]
 }
