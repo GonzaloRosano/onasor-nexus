@@ -14,5 +14,8 @@
     "users":"Usuarios",
     "posts":"Publicaciones",
     "comments":"Comentarios"
+  },
+  "home": {
+    "first-paragraph": "Somos ArefyAliance, un equipo dedicado a dominar el mundo de Minecraft. Conoce a nuestros miembros y descubre nuestras más epicas aventuras y logros dentro del servidor."
   }
 }

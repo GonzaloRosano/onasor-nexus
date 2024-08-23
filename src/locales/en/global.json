@@ -14,5 +14,8 @@
     "users": "Users",
     "posts": "Posts",
     "comments": "Comments"
+  },
+  "home": {
+    "first-paragraph": "We are ArefyAliance, a team dedicated to dominating the Minecraft world. Explore our members and discover the most epic adventures and achievements within the server."
   }
 }

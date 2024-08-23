@@ -16,7 +16,8 @@
     "react-dom": "^18.3.1",
     "react-i18next": "^15.0.1",
     "react-router-dom": "^6.26.1",
-    "turso-client": "^0.0.15"
+    "turso-client": "^0.0.15",
+    "vercel": "^37.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
