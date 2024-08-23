@@ -1,0 +1,18 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "members": "Members",
+    "login": "Login",
+    "logout": "Logout",
+    "signup": "Sign Up",
+    "profile": "Profile",
+    "settings": "Settings",
+    "admin": "Admin",
+    "adminPanel": "Admin Panel",
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "posts": "Posts",
+    "comments": "Comments"
+  }
+}

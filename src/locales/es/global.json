@@ -1,0 +1,18 @@
+{
+  "header":{
+    "home":"Inicio",
+    "about":"Acerca de",
+    "members":"Miembros",
+    "login":"Iniciar sesión",
+    "logout":"Cerrar sesión",
+    "signup":"Registrate",
+    "profile":"Perfil",
+    "settings":"Configuraciones",
+    "admin":"Administración",
+    "adminPanel":"Panel de administración",
+    "dashboard":"Tablero",
+    "users":"Usuarios",
+    "posts":"Publicaciones",
+    "comments":"Comentarios"
+  }
+}
